@@ -30,10 +30,11 @@
 **3. Table Structure**
 Create the following tables to ensure seamless functionality:
 
-Table Name,Icon,Description
-user_info,🧑‍💼,"Stores customer and staff details such as username, email, contact, and unique ID."
-orders,🧾,"Handles order records with an auto-incremented primary key, item name, and amount."
-vacancy,🍽️,Manages table availability by tracking booked tables and assigned users.
+| Table Name | Icon | Description |
+| :--- | :---: | :--- |
+| **`user_info`** | 🧑‍💼 | Stores customer and staff details such as username, email, contact, and unique ID. |
+| **`orders`** | 🧾 | Handles order records with an auto-incremented primary key, item name, and amount. |
+| **`vacancy`** | 🍽️ | Manages table availability by tracking booked tables and assigned users. |
 
 ### 📂 Installation & Launch
 
